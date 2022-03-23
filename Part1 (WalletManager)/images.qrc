@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/other/get-money.png</file>
+        <file>images/other/wallet.png</file>
+        <file>images/icons/i_green_plus.png</file>
+        <file>images/icons/i_red_cross_btn.png</file>
+        <file>images/icons/i_red_plus.png</file>
+        <file>images/icons/i_edit_trans_type.png</file>
+        <file>images/icons/i_edit_users.png</file>
+        <file>images/icons/i_log-out.png</file>
+        <file>images/icons/i_settings.png</file>
+        <file>images/icons/i_view_expense.png</file>
+        <file>images/icons/i_view_income.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,2 @@
+D:/debug/WalletManager/WalletManager.sqliteD:/debug/WalletManager/WalletManager.sqlite
+D:/debug/WalletManager/WalletManager.sqlite
